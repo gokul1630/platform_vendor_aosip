@@ -121,6 +121,7 @@ PRODUCT_PACKAGES += \
     Jelly \
     NexusLauncherRelease \
     PixelThemes \
+    SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     SoundPickerPrebuilt
 
