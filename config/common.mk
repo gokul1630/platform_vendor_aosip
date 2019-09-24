@@ -116,6 +116,12 @@ include vendor/aosip/config/fonts.mk
 # Packages
 include vendor/aosip/config/packages.mk
 
+#packages
+PRODUCT_PACKAGES += \
+    Jelly \
+    NexusLauncherRelease \
+    SettingsIntelligenceGooglePrebuilt
+
 # Versioning
 include vendor/aosip/config/version.mk
 
