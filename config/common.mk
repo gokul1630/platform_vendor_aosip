@@ -120,6 +120,7 @@ include vendor/aosip/config/packages.mk
 PRODUCT_PACKAGES += \
     Jelly \
     NexusLauncherRelease \
+    PixelThemes \
     SettingsIntelligenceGooglePrebuilt
 
 # Versioning
