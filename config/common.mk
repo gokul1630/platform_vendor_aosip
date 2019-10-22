@@ -121,7 +121,8 @@ PRODUCT_PACKAGES += \
     Jelly \
     NexusLauncherRelease \
     PixelThemes \
-    SettingsIntelligenceGooglePrebuilt
+    SettingsIntelligenceGooglePrebuilt \
+    SoundPickerPrebuilt
 
 # Versioning
 include vendor/aosip/config/version.mk
