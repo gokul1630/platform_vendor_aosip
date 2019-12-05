@@ -1,7 +1,13 @@
 # Required packages
 PRODUCT_PACKAGES += \
     PixelThemes \
-    ThemePicker
+    ThemePicker \
+    Gallery2 \
+    LatinIME \
+    Launcher3 \
+    LiveWallpapers \
+    LiveWallpapersPicker \
+    messaging
 
 ifeq ($(AOSIP_BUILDTYPE), Official)
     PRODUCT_PACKAGES += \
