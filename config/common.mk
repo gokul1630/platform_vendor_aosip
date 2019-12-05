@@ -142,8 +142,5 @@ PRODUCT_PACKAGES += \
     misc_writer_system \
     themed_bootanimation
 
-# GApps
-include vendor/gapps/config.mk
-
 # Pixel Style
 include vendor/pixelstyle/config.mk
