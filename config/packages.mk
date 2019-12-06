@@ -9,7 +9,7 @@ PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     messaging
 
-ifeq ($(AOSIP_BUILDTYPE), Official)
+ifeq ($(filter-out Official CI, $(AOSIP_BUILDTYPE)),)
     PRODUCT_PACKAGES += \
         Updater
 endif
