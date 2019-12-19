@@ -120,7 +120,9 @@ include vendor/aosip/config/packages.mk
 PRODUCT_PACKAGES += \
     Jelly \
     NexusLauncherRelease \
-    PixelThemes \
+    NexusWallpapersStubPrebuilt2019Static \
+    OmniStyle \
+    PixelThemesStub2019 \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     SoundPickerPrebuilt
